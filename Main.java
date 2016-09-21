@@ -4,4 +4,5 @@ Viande
 Salade
 Tomate
 Sauce
+Galette
 Pain
